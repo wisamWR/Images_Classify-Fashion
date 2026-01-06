@@ -2,7 +2,7 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 from PIL import Image, ImageOps
-import matplotlib.pyplot as plt
+
 
 # --- Page Config ---
 st.set_page_config(
